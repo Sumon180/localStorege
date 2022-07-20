@@ -1,0 +1,24 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+select{
+    margin: 1rem;
+}
+.container{
+    padding: 1rem;
+}
+
+main{
+    background-color: rgb(204, 146, 74);
+    font-size: 16px;
+    padding: 0.5rem;
+}
+
+p{
+    margin: 1rem;
+}
